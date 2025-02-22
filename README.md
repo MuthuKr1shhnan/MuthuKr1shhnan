@@ -31,6 +31,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MuthuKr1shhnan/MuthuKr1shhnan/output/snake.svg" alt="Snake animation" />
+
 
 ###
